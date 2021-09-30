@@ -26,12 +26,12 @@ Example: User selected temperatures between 75 and 90 Fahrenheit.
 -   After selecting their temperature preferences, users are able to explore the map overlay to find a region they would like to visit and build a sample itinerary.
 
 Example: User has selected an itinerary taking them across central Japan.
-![travel_map](./vacation_itinerary/weatherpy_travel_map.PNG)
+![travel_map](./vacation_itinerary/weatherpy_travel_map.png)
 
 - Finally, the user is able to review the current weather conditions and prefered hotel accomodations in their selected destinations.
 
 Example: User is able to see details on their selected destinations within their itinerary.
-![travel_markers](./vacation_itinerary/weatherpy_travel_map_markers.PNG)
+![travel_markers](./vacation_itinerary/weatherpy_travel_map_markers.png)
 
 
 
